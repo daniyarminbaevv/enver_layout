@@ -325,8 +325,8 @@ footer {
   .portfolio_list_mobile img {
     width: 100%;
     max-width: 330px;
-    margin: 0, auto;
-    display: block;
+    /* margin: 0, auto;
+    display: block; */
   }
 }
 
